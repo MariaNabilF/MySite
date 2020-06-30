@@ -1,0 +1,111 @@
+body{
+margin: 0 ;
+text-align: center;
+}
+h1{
+  margin: 50 auto 0 auto;
+  position: relative;
+  top:50px;
+font-family: 'Sacramento', cursive;
+font-size: 80px;
+color: #66BFBF;
+}
+h3{
+font-size: 30px;
+font-family: 'Yellowtail', cursive;
+color: #11999E;
+}
+
+h2{
+font-size: 2.5rem;
+  font-family: 'Dancing Script', cursive;
+  color: #66BFBF;
+}
+.footer-link{
+  color: #11999E;
+
+
+}
+
+.corona{
+  font-family: 'Dancing Script', cursive;
+  color: #66BFBF;
+  font-size: 2.3rem;
+
+}
+
+.skill-row{
+width: 50%;
+  margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+
+}
+
+
+
+
+.proo{
+    top:50px;
+    font-size: 30px;
+font-weight:normal;
+
+    font-family: monospace;
+}
+p{
+  font-size: 20px;
+  font-family: monospace;
+
+}
+.top{
+  background-color:  #E4F9F5;
+padding-top: 100px;
+line-height: 2;
+}
+
+.prof{
+
+
+  width: 200px;
+  height: 200px;
+}
+
+.draw{
+  padding-right: 20px;
+
+  float: left;
+  width: 25%;
+
+}
+
+.comp{
+  float: right;
+margin-left: 30px;
+  width: 25%;
+
+}
+.dot{
+border-style: dotted;
+width: 10%;
+border-top: 0;
+border-width: thick;
+color: #66BFBF;
+border-bottom-width: thick;
+
+
+}
+.bCloud{
+  position: absolute;
+  left:300px;
+  top:150px;
+}
+.tCloud{
+  position: absolute;
+top:30px;
+left:1000px;
+
+}
+
+.down{
+  background-color: #E4F9F5;
+}
